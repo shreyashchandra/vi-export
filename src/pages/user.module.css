@@ -1,0 +1,53 @@
+.tablecontainer {
+  /* width: 100%; */
+  /* padding: 20px; */
+  box-sizing: border-box;
+  margin-bottom: 80px;
+  margin-top: 200px;
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 97%;
+  margin-bottom: 1px;
+  margin-top: 200px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: black;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #ab220a;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+body {
+  background-image: url("ricebg1.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
